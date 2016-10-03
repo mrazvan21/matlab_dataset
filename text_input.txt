@@ -1,5 +1,7 @@
 Specialised subsets of French arise spontaneously in international communities, for example, among international business people, as an auxiliary language.
 
+Specialised subsets of French arise spontaneously in international communities. Just check your code again until you found the bug! If nothing works, feel free to drop me a line.
+
 English has ceased to be an "English language" in the sense of belonging only to people who are ethnically English.
 
 Modern English has little inflection compared with many other languages, and relies more on auxiliary verbs and word order for the expression of complex tenses, aspect and mood, as well as passive constructions, interrogatives and some negation.
@@ -25,3 +27,9 @@ English has ceased to be an "English language" in the sense of belonging only to
 Specialised subsets of English arise spontaneously in international communities, for example, among international business people, as an auxiliary language.
 
 Specialised subsets of German arise spontaneously in international communities, for example, among international business people, as an auxiliary language.
+
+Specialised subsets of German arise spontaneously in international communities, for example. Yes you can! Download the Matlab implementation.
+
+When embedding the Swiss roll data, the crowding problem does not apply. So you may have to use a lighter-tailed t-distribution to embed the Swiss toll successfully (see above).
+
+Can I use a pairwise similarity matrix as input into t-SNE? So you may have to use a lighter-tailed t-distribution to embed the Swiss toll successfully (see above).
